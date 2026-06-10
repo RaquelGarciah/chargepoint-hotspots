@@ -7,11 +7,11 @@
 Built with **React · Vite · Leaflet**, fed by a **PySpark + scikit-learn** geospatial
 pipeline. Designed to be shown to a client and to *sell* a decision, not just plot dots.
 
-## Demo
+### 🔴 [**Live demo → find-the-spot.vercel.app**](https://find-the-spot.vercel.app)
 
-![Demo of the interactive hotspots map](docs/demo.gif)
+[![Open the live interactive map](docs/demo.gif)](https://find-the-spot.vercel.app)
 
-▶️ **[Watch in HD (MP4)](docs/demo.mp4)**
+<sub>▶️ Click the map to open the live app · [watch a quick recording (MP4)](docs/demo.mp4)</sub>
 
 ---
 
@@ -157,7 +157,6 @@ Swap in new pipeline outputs without touching app code:
 
 ## Roadmap
 
-- Deploy a live demo (Vercel / GitHub Pages).
 - Charger-count sizing per hotspot from dwell + traffic.
 - Isochrone / grid-capacity overlays.
 
