@@ -7,11 +7,11 @@
 Built with **React · Vite · Leaflet**, fed by a **PySpark + scikit-learn** geospatial
 pipeline. Designed to be shown to a client and to *sell* a decision, not just plot dots.
 
-### 🔴 [**Live demo → find-the-spot.vercel.app**](https://find-the-spot.vercel.app)
+### 🔴 [**Live interactive demo → find-the-spot.vercel.app**](https://find-the-spot.vercel.app)
 
-[![Open the live interactive map](docs/demo.gif)](https://find-the-spot.vercel.app)
+[![Chargepoint Hotspots — interactive map scoring truck-stop hotspots for EV charging across Spain](docs/screenshot.png)](https://find-the-spot.vercel.app)
 
-<sub>▶️ Click the map to open the live app · [watch a quick recording (MP4)](docs/demo.mp4)</sub>
+<sub>👆 Click to open the live app — pick a route or go global, recolor hotspots by any metric, tune the score weights, and click any point.</sub>
 
 ---
 
