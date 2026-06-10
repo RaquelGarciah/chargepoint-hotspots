@@ -7,9 +7,11 @@
 Built with **React · Vite · Leaflet**, fed by a **PySpark + scikit-learn** geospatial
 pipeline. Designed to be shown to a client and to *sell* a decision, not just plot dots.
 
-<!-- Add a screenshot or GIF here once deployed, e.g.:
-![Demo](docs/demo.png)
--->
+## Demo
+
+![Demo of the interactive hotspots map](docs/demo.gif)
+
+▶️ **[Watch in HD (MP4)](docs/demo.mp4)**
 
 ---
 
