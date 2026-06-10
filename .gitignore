@@ -1,0 +1,25 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+.vite
+
+# Local tooling / cache
+.npmcache
+.claude
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+logs
+
+# Office binaries (kept out of git)
+*.pptx
+*.docx
+*.xlsx
+
+# Backups
+*.bak
